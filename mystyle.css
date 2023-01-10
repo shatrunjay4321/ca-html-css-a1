@@ -633,3 +633,214 @@ h3 {
     align-items: center;
     justify-content: center;
 }
+.subscribe_container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 120px;
+    margin-top: 20px;
+    background-color: #FBDC00;
+}
+.subscribe_div {
+    width: 20%;
+    padding: 20px;
+    margin: 20px;
+}
+.subscribe_div img {
+    width: 100%;
+    height: 100%;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.subscribe_heading_div {
+
+}
+.subscribe_heading {
+    margin: 0;
+}
+.subscribe_span {
+    font-size: 16px;
+}
+.subscribe_form_container {
+    align-items: center;
+    margin-top: 20px;
+}
+.subscribe_form {
+    display: flex;
+}
+.styles_input_container__LNJZN input[type=email] {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 250px;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid transparent;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    outline: none;
+}
+.subscribe_button {
+    color: #fff;
+    background-color: #ee3425;
+    border: 1px solid #ee3425;
+    min-width: 72px;
+    padding: 4px 16px;
+    width: 120px!important;
+    height: 40px!important;
+    text-align: center;
+    text-decoration: none;
+    background: #ee3425;
+    border-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    outline: none;
+}
+.how_it_works {
+    width: 1200px;
+}
+.how_it_works_cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+h3 {
+    font-size: 28px;
+    line-height: 1.2;
+}
+.how_it_works_button {
+    display: flex;
+    justify-content: space-between;
+}
+.how_it_works_cont
+.For_Cargo_Owners_button {
+    width: 200px;
+    padding: 10px;
+    margin: 0 20px;
+    font-weight: 700;
+    color: #000!important;
+    border-radius: 20px;
+}
+.For_Cargo_Owners_button {
+    border-radius: 20px;
+    background-color: var(--color-secondary)!important;
+    border: var(--color-secondary)!important;
+}
+.how_it_works_cont
+.For_Logistics_Partners_button {
+    width: 200px;
+    padding: 10px;
+    margin: 0 20px;
+    font-weight: 700;
+    color: #000!important;
+    
+}
+.For_Logistics_Partners_button {
+    border-radius: 20px;
+    background: #e5dfdf!important;
+    border: grey!important;
+}
+.styles_container__7cFsf {
+    position: relative;
+    display: flex;
+}
+div {
+    display: block;
+}
+.styles_container__7cFsf {
+    position: relative;
+    display: flex;
+}
+.styles_stage1__RwgVC {
+    margin-bottom: 120px;
+}
+.styles_main__9QKz8 {
+    width: 300px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 1px 6px rgb(169 188 218 / 65%);
+}
+.styles_imagecontainer__7Ps6C {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.styles_redtext__qNc_O {
+    font-weight: 600;
+    color: #ee3425;
+}
+
+p {
+    font-size: 16px;
+}
+.styles_heading__GyQVu {
+    display: flex;
+    align-items: center;
+    padding: 0 0 10px;
+    margin: 0;
+    list-style-position: outside;
+}
+.styles_main__9QKz8 span {
+    display: flex;
+}
+.styles_para__7I1R1 {
+    padding-bottom: 5px;
+    padding-left: 8px;
+    margin: 0;
+}
+.styles_arrow1__hJg7v {
+    position: absolute;
+    top: 104px;
+    left: 300px;
+}
+.styles_arrowimage__50gz2 {
+    width: 150px;
+    height: 60px;
+}
+.styles_main__9QKz8 span {
+    display: flex;
+}
+.styles_para__7I1R1 {
+    padding-bottom: 5px;
+    padding-left: 8px;
+    margin: 0;
+}
+.styles_main__9QKz8 {
+    width: 300px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 1px 6px rgb(169 188 218 / 65%);
+}
+.styles_arrow2__JOZhk {
+    position: absolute;
+    bottom: 116px;
+    left: 300px;
+}
+.styles_arrowimage__50gz2 {
+    width: 150px;
+    height: 60px;
+}
+.styles_imagecontainer__7Ps6C {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.styles_image__cFHAa {
+    width: 560px;
+    height: 320px;
+}
+.styles_arrow3__XQhnr {
+    position: absolute;
+    top: 104px;
+    right: 300px;
+}
+.styles_arrow4__W5PwF {
+    position: absolute;
+    right: 300px;
+    bottom: 116px;
+}
+.styles_stage3__anVPg {
+    margin-bottom: 120px;
+}
